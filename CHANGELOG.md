@@ -41,6 +41,10 @@ and this project adheres to
 
 ### Deprecated
 
++ The `weather` widget type is deprecated. MyUW is no longer using it with no
+  realistic prospects of returning it to service, so it will be cleaner to
+  intentionally remove the type rather than to neglect it.
+
 ### Documentation
 
 ## [10.3.0][] - 2018-09-19
